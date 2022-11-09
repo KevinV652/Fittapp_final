@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085552446994",
+    "project_id": "proyectoultimo-d667a",
+    "storage_bucket": "proyectoultimo-d667a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085552446994:android:c599cc2a0595b3a52bd2cb",
+        "android_client_info": {
+          "package_name": "com.example.fittapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085552446994-7srblecqmcu86khoi7c0rk70pq40c0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0Ys-IxK-Sq5e8AcZCST4Pc4S2wrEE8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085552446994-7srblecqmcu86khoi7c0rk70pq40c0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

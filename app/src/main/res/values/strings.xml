@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FITAPP</string>
+    <string name="brREGISTRASE">REGISTRARSE</string>
+    <string name="Login">Inicio de sesion</string>
+    <string name="registro">REGISTRO</string>
+    <string name="correo">Escriba el correo</string>
+    <string name="contrasena">Escriba la contraseña</string>
+    <string name="nombres">Nombres Completos</string>
+    <string name="apellidos">Apellidos Completos</string>
+    <string name="Edad">Edad</string>
+    <string name="Motivo">Meta</string>
+
+    <string name="correologin">Correo Electronico</string>
+    <string name="contasenalogin">Contraseña</string>
+    <string name="Ingresar">LOGIN</string>
+    <string name="recomendar">RECOMENDAR</string>
+    <string name="calo">CALORIAS</string>
+    <string name="NOMB">NOMBRE</string>
+    <string name="DIFU">DIFICULTAD</string>
+    <string name="TIEM">TIEMPO</string>
+    <string name="iniciosec">INICIO DE SESIÓN</string>
+    <string name="peso">PESO</string>
+    <string name="saludo">Hola Jonathan</string>
+    <string name="tit_resumen">Resumen</string>
+    <string name="mis" />
+    <string name="metas_">Mis Metas</string>
+    <string name="peso_">Peso</string>
+    <string name="edad_">Edad</string>
+    <string name="btn_cc">Cerrar Sesión</string>
+
+    <string name="Nom">Nombre:</string>
+    <string name="azu">Azucare:</string>
+    <string name="calor">Calorias:</string>
+    <string name="carb">Carbohidratos:</string>
+    <string name="grasas">Grasas:</string>
+    <string name="prot">Proteinas:</string>
+    <string name="nombrecito">Nombre:</string>
+    <string name="azucaritos">Azucares:</string>
+
+
+</resources>
